@@ -1,0 +1,4 @@
+baseURL = 'https://vr-campus.github.io'
+languageCode = 'en-uk'
+title = 'VR Campus'
+theme = 'nostyleplease'
